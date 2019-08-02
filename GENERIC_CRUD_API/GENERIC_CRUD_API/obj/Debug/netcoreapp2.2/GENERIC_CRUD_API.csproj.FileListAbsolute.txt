@@ -1,0 +1,15 @@
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\bin\Debug\netcoreapp2.2\GENERIC_CRUD_API.deps.json
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\bin\Debug\netcoreapp2.2\GENERIC_CRUD_API.runtimeconfig.json
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\bin\Debug\netcoreapp2.2\GENERIC_CRUD_API.runtimeconfig.dev.json
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\bin\Debug\netcoreapp2.2\GENERIC_CRUD_API.dll
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\bin\Debug\netcoreapp2.2\GENERIC_CRUD_API.pdb
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\obj\Debug\netcoreapp2.2\GENERIC_CRUD_API.csprojAssemblyReference.cache
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\obj\Debug\netcoreapp2.2\GENERIC_CRUD_API.csproj.CoreCompileInputs.cache
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\obj\Debug\netcoreapp2.2\GENERIC_CRUD_API.RazorAssemblyInfo.cache
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\obj\Debug\netcoreapp2.2\GENERIC_CRUD_API.RazorAssemblyInfo.cs
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\obj\Debug\netcoreapp2.2\GENERIC_CRUD_API.AssemblyInfoInputs.cache
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\obj\Debug\netcoreapp2.2\GENERIC_CRUD_API.AssemblyInfo.cs
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\obj\Debug\netcoreapp2.2\GENERIC_CRUD_API.RazorTargetAssemblyInfo.cache
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\obj\Debug\netcoreapp2.2\GENERIC_CRUD_API.dll
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\obj\Debug\netcoreapp2.2\GENERIC_CRUD_API.pdb
+C:\Users\caio.silva\Documents\Git\CRUD_API\GENERIC_CRUD_API\GENERIC_CRUD_API\bin\Debug\netcoreapp2.2\GENERIC_CRUD_API.xml
